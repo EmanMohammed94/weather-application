@@ -1,0 +1,201 @@
+
+
+*{
+    box-sizing: border-box;
+    color: #bfc1c8;
+}
+
+.link-span{
+    font-size: 10px;
+    color: rgb(202, 197, 197);
+}
+
+.link-content img{
+    width: 60px;
+    height: 40px;
+
+}
+.link-text{
+    margin-left: 10px;
+}
+.navbar-nav li{
+    padding: 10px;
+}
+
+.navbar-nav li a{
+    color: white;
+    text-decoration: none;
+}
+.navbar-nav li .home-link{
+    color: #009ad8;}
+
+
+    .arrow{
+        background: #262936;
+        border-radius: 30px;
+    }
+    a{
+        text-decoration: none;
+    }
+    .arrow{
+        font-size: 13px;
+    }
+    .arrow a{
+        color: rgb(202, 197, 197);
+        margin-left: 20px;
+    }
+    .arrow i{
+        color: gray;
+    }
+
+    .contact-info{
+      
+        background-color: #262936;
+    }
+    .empty{
+        height: 220px;
+    }
+    .contact-details p{
+        color:rgb(202, 197, 197); 
+    }
+    .contact-details i{
+        color: #009ad8;
+        margin-right: 10px;
+    }
+    .contact-details span{
+        color:rgb(202, 197, 197); 
+        
+    }
+    .contact-details .message{
+        margin-left: 20px;
+    }
+    .contact-text{
+        color: rgb(202, 197, 197); 
+    }
+
+input{
+    border-radius: 30px;
+    background-color: transparent;
+    border: 1px solid gray;
+    margin-bottom: 10px;
+    padding: 10px;
+  
+  
+}
+input:hover{
+    border: #009ad8 1px solid;
+}
+
+
+textarea{
+    width: 100%;
+  border-radius: 30px;
+    margin-bottom: 10px;
+    color: white;
+    padding: 10px;
+    border: 2px solid #393c48;
+    background: transparent;
+}
+    .submit-btn{
+        background-color: #009ad8;
+    border-radius: 20px;
+    color: white;
+    }
+    footer{
+        background-color:#393c48;
+margin-top: 30px;
+
+
+    }
+    .input-email{
+        background-color: transparent ;
+       border:none;
+        width: 100%;
+     outline: none;
+
+    }
+    .input-email:hover{
+        border: none;
+    }
+    .subscribe-btn{
+        background-color: #009ad8;
+        border-radius: 30px;
+        color: white;
+        padding: 15px 20px;
+        border: none;
+        
+    }
+    .inputEmail-Container{
+        background-color:#262936;
+        
+        border-radius: 30px;
+    }
+    .icon-container i{
+        color: #009ad8;
+        font-size: 20px;
+        transition: 1s;
+        
+        
+    }
+    .icon-container{
+        background-color: #262936;
+        padding: 10px;
+        margin-right: 5px;
+    }
+    .icon-container:hover{
+        background-color: #009ad8;
+        
+    }
+    .icon-container i{
+        transition: 1s;
+    }
+    .icon-container:hover i{
+        color: white;
+    }
+
+    .bg-container{
+        background-image: url('images/banner.png');
+        padding: 70px 0;
+        min-height: 350px;
+        background-size: cover;
+    }
+    .frist-title{
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+    .frist-day{
+        background-color: #323544;
+        line-height: 1.5;
+        
+     
+ 
+    }
+    .status{
+        color: gray;
+        margin-bottom: 20px;
+    }
+    .climate span{
+        color: #009ad8;
+    }
+    .temperature h1{
+        font-size: 100px;
+  
+    }
+
+    .location span{
+        font-size: 22px;
+    }
+   
+    .second-container{
+        line-height: 50px;
+      
+    }
+    
+ 
+    .big-content{
+        position: relative;
+        transform: translateY(-120px);
+      
+    }
+    .third-day:first-child{
+        background-color: #262936;
+    }
